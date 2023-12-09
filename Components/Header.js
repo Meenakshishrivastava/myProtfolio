@@ -37,7 +37,7 @@ const Header = () => {
             {!nav ? <AiOutlineClose size={20}/> : <AiOutlineMenu size={20}/>}
           
         </div>
-        <div className={!nav ? 'fixed top-0 left-0 w-[60%] h-full border-r border-r-gray-600 bg-indigo-900 ease-in-out duration-500' : 'fixed left-[-100%]'}>
+        <div className={!nav ? 'fixed top-0 left-0 w-[60%] h-full border-r border-r-gray-600 bg-violet-950 ease-in-out duration-500' : 'fixed left-[-100%]'}>
        
         
         <div className='w-[126px] h-[106pxpx] m-[-1px] p-[28px]'>
