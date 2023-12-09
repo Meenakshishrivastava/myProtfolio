@@ -57,7 +57,7 @@ const Work = () => {
             </div>
 
             <div className='content-div shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-              <img  src='./images/TODO.png' alt="HTML icon"/> 
+              <img  src='./images/TODO.PNG' alt="HTML icon"/> 
              <div  className=' group container rounded-md flex justify-center text-center items-center mx-auto '> 
                 <span className="text-2xl font bold text-white tracking-wider">TODO APP</span>
               <a href='https://github.com/Meenakshishrivastava/to-do-list'> 
