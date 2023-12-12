@@ -12,7 +12,7 @@ const Work = () => {
             
           <div className=' w-full grid grid-cols-1 sm:grid-cols-3 gap-8 text-center py-8 '>
        
-              <div className='content-div shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+              <div className='content-div shadow-md shadow-[#040c16] '>
               <img  src='./images/muss.png' alt="HTML icon"/> 
              <div  className=' group container rounded-md flex justify-center text-center items-center mx-auto '> 
                 <span className="text-2xl font bold text-white tracking-wider">MUSIC APP</span>
