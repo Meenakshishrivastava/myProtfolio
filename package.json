@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Meenakshishrivastava.github.io/MYPROT",
+  "homepage": "https://Meenakshishrivastava.github.io/myProtfolio",
   "name": "myprot",
   "version": "0.1.0",
   "private": true,
@@ -24,4 +24,5 @@
     "postcss": "^8",
     "tailwindcss": "^3.3.0"
   }
+}
 
