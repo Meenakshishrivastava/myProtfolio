@@ -17,7 +17,7 @@ const Navbar = () => {
   const handleClick = () => setNav(!nav);
 
   return (
-    <div className='fixed w-full h-[80px] flex justify-between font-bold items-center px-4 bg-violet-950 text-black'>
+    <div className='fixed w-full h-[80px] flex justify-between font-bold items-center px-4 bg-gradient-to-r from-slate-900 via-purple-900 to-slate-900 text-black'>
       <div>
         <img src='./images/bot.png' alt='Logo Image' style={{ width: '70px' }} />
       </div>
@@ -61,7 +61,7 @@ const Navbar = () => {
         className={
           !nav
             ? 'hidden'
-            : 'absolute top-0 left-0 w-full h-screen bg-violet-950 flex flex-col justify-center items-center'
+            : 'absolute top-0 left-0 w-full h-screen bg-gradient-to-r from-slate-900 via-purple-900 to-slate-900 flex flex-col justify-center items-center'
         }
       >
         <li className='py-6 text-4xl'>
