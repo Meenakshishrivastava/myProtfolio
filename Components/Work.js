@@ -3,7 +3,7 @@ import React from 'react'
 
 const Work = () => {
   return (
-    <div name='Work' className='w-full md:h-screen bg-violet-950'>
+    <div name='Work' className='w-full md:h-screen bg-gradient-to-r from-slate-900 via-purple-900 to-slate-900'>
      <div className=' max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
           <div className='pb-8'>
             <p className='text-4xl font-bold inline border-b-4 border-white'>Work</p>
