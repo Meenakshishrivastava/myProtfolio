@@ -7,14 +7,14 @@ const Home = () => {
     
     
 
-    <div name='Home' className='w-full h-screen bg-bg-gradient-to-b indigo-900 justify-center items-center text-center'>
+    <div name='Home' className='w-full h-screen bg-white justify-center items-center text-center'>
           
          
         
    
 
         {/* container*/}
-        <div className='bg-gradient-to-r from-slate-900 via-purple-900 to-slate-900 max-auto items-center px-8 flex flex-col justify-center h-full '>
+        <div className='bg-white max-auto items-center px-8 flex flex-col justify-center h-full '>
         <img src='./images/icon3.gif'/>
             <p className='text-black-600'>Hi, my name is</p>
             <h1 className='text-4xl sa:text-7xl font-bold text-[#f2f3f5]'>Meenakshi Shrivastava</h1>
