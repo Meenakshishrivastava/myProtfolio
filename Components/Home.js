@@ -14,7 +14,7 @@ const Home = () => {
    
 
         {/* container*/}
-        <div className='bg-white max-auto items-center px-8 flex flex-col justify-center h-full '>
+        <div className='bg-teal-600 max-auto items-center px-8 flex flex-col justify-center h-full '>
         <img src='./images/icon3.gif'/>
             <p className='text-black-600'>Hi, my name is</p>
             <h1 className='text-4xl sa:text-7xl font-bold text-[#f2f3f5]'>Meenakshi Shrivastava</h1>
